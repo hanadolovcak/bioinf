@@ -1,0 +1,6 @@
+mode,data_source,data_size,k,num_kmers,num_unique,filter,insert_s,lookup_s,fpr,peak_rss_kb,internal_bytes,segments,load_factor,positive_hits
+ecoli,/Users/anaangelov/Faks/bioinf/data/ecoli.fa,4641652,10,4641643,898115,bamboo,0.0327426,0.020816,0.0002,94352,19673768,9115,0.0962222,898115
+ecoli,/Users/anaangelov/Faks/bioinf/data/ecoli.fa,4641652,20,4641633,4561265,bamboo,0.366224,0.242283,0.0009,216548,27754504,12884,0.345728,4561265
+ecoli,/Users/anaangelov/Faks/bioinf/data/ecoli.fa,4641652,50,4641603,4578840,bamboo,0.314746,0.253796,0.0011,217372,27793096,12902,0.346576,4578840
+ecoli,/Users/anaangelov/Faks/bioinf/data/ecoli.fa,4641652,100,4641553,4588610,bamboo,0.298115,0.241911,0.0007,217748,27814536,12912,0.347047,4588610
+ecoli,/Users/anaangelov/Faks/bioinf/data/ecoli.fa,4641652,200,4641453,4598333,bamboo,0.30628,0.277415,0.0015,218136,27835976,12922,0.347513,4598333
